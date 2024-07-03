@@ -1,3 +1,3 @@
 # Sphinx_Portfolio
 
-Ayomide Yissa - Technical Writer
+[Ayomide Yissa](https://ayoyissa.readthedocs.io/) - Technical Writer

@@ -7,6 +7,8 @@ API Documentation Projects
 Finance API Documentation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+The **YH Finance Docs** is live at this `website <https://ayomide-yissa.gitbook.io/yh-finance-docs>`_.
+
 **Context**: YH Finance Docs is a comprehensive documentation made with Gitbook for the `YH Finance API <https://rapidapi.com/apidojo/api/yh-finance>`_ providing accessible onboarding guides, key endpoint documentation and tutorials. 
 
 **Contributions**: 
@@ -19,11 +21,12 @@ Finance API Documentation
 
 - Boosted user understanding and accesibility of the platform's capabilities 
 - Improved developer experience and reduced support queries through effective documentation 
-
-**Link**: `YH Finance Documentation <https://ayomide-yissa.gitbook.io/yh-finance-docs>`_
+ 
 
 Sports API Documentation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The **NBA-API** Documentation is live `here <https://nbaapi-docs.netlify.app/>`_.
 
 **Context**: The NBA API Documentation site hosted on Netlify provides documentation for accessing official NBA basketball statistics using a python library. 
 
@@ -39,8 +42,6 @@ Sports API Documentation
 - Reduced onboarding friction for new developers and reduced the need for support 
 - Increased adoption and user satisfaction
 
-**Link**: `NBA API Docs <https://nbaapi-docs.netlify.app/>`_
-
 Open Source Contributions
 --------------------------
 Contributed to various open source projects in different capacities. 
@@ -53,13 +54,26 @@ Contributed to various open source projects in different capacities.
 `MindsDB <https://mindsdb.com/>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Created tutorial for using MindsDB enhancing the project's knowledge base and improving accessibilty.
+- Created `tutorial <https://ayoyissa.hashnode.dev/mindsdb-tutorial-how-to-predict-the-cost-of-weather-and-climate-disasters>`_ for using MindsDB enhancing the project's knowledge base and improving accessibilty.
 - Contributed documentation for integration of MindsDB with external services.
 
-Articles
----------
+Writing Samples
+---------------
 
-- `Hashnode Blog <https://ayoyissa.hashnode.dev/>`_
-- `Web3 and Cryptocurrency <https://decentrapress.com/author/ayomide-yissa/>`_
+Data Science and Machine Learning Articles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- `Evaluation Metrics for an ML Regression Model <https://ayoyissa.hashnode.dev/evaluation-metrics-for-an-ml-regression-model>`_
+- `Machine Learning and Tabular Data <https://ayoyissa.hashnode.dev/machine-learning-and-tabular-data>`_ 
+- `What is a Confusion Matrix? <https://ayoyissa.hashnode.dev/what-is-a-confusion-matrix>`_ 
+
+Web3 Articles
+~~~~~~~~~~~~~~
+
+- `Why is Blockchain Interoperability Vital? <https://decentrapress.com/interoperability/>`_
+- `What is Algorand and how Does It Work? <https://decentrapress.com/algorand/>`_ 
+- `The role of miners in Blockchain & Cryptocurrency <https://decentrapress.com/the-role-of-miners-in-blockchain-cryptocurrency/>`_ 
+
+Freelance Articles
+~~~~~~~~~~~~~~~~~~~
 - `KnowledgeOwl Contributions <https://blog.knowledgeowl.com/blog/authors/ayomide-yissa/>`_
-

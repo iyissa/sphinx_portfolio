@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Ayomide Yissa's Technical Writing Portfolio!
+Ayomide Yissa's Technical Writing Portfolio
 =================================================================
 
-Hello! My name is Ayomide Yissa and I am a technical writer. Welcome to my Portfolio!
+Hello, My name is Ayomide Yissa and I am a technical writer. Welcome to my Portfolio!
 
 I have over 3 years of technical writing experience in:
 
@@ -23,7 +23,7 @@ I have documented APIs for sports and fintech products and contributed  document
 
 Published in 2024, I contributed to the `2nd edition of the Technical Writing process <https://boffin.education/the-technical-writing-process-2024-2nd-edition/>`_ book.
 
-.. admonition:: Please Note!
+.. admonition:: Please Note
    
    I am actively job hunting for a full time technical writing role. 
    Check out my :ref:`Resume! <resumepage>`

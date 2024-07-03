@@ -37,7 +37,7 @@ Work Experience
 
 -----------------------------------------
 
-PROJECTS
+Projects
 -----------------------------------------
 
 **The Good Docs Project | Open Source**
